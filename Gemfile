@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+
+gem "jekyll-theme-minimal"
 gem 'jekyll'
 gem 'jekyll-sitemap'
 gem 'octopress', '~> 3.0.0.rc.12'
