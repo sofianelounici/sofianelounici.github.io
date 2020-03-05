@@ -7,7 +7,7 @@ tags: [machine learning, neural networks, deep learning, academic, page, sofiane
 
 My name is Sofiane Lounici. I am currently a research engineer at SAP Labs France where I work on machine learning techniques applied to data privacy.<br/><br/>
 
-After my three years of preparatory classes in Metz, I joined [IMT-Atlantique](https://www.imt-atlantique.fr/en) in Brest to complete my Bachelor degree in computer science. I completed my education with a Master degree in Data Science in [Eurecom](http://www.eurecom.fr/en), with a focus on machine learning, with a master thesis entitled *Anomaly Detection in Multivariate Time Series*. After an academic semester in [Tomsk Polytechnic University](https://tpu.ru/en), I was hired as Research Engineer in SAP Labs France.
+After my three years of preparatory classes in Metz, I joined [IMT-Atlantique](https://www.imt-atlantique.fr/en) in Brest to complete my Bachelor degree in computer science. I completed my education with a Master degree in Data Science in [Eurecom](https://www.eurecom.fr/en), with a focus on machine learning, with a master thesis entitled *Anomaly Detection in Multivariate Time Series*. After an academic semester in [Tomsk Polytechnic University](https://tpu.ru/en), I was hired as Research Engineer in SAP Labs France.
 
 
 ## Research Interests

@@ -6,7 +6,7 @@ Version: 2014-05-20
 1. ABOUT
 
 PubList is a custom export for JabRef
-(http://jabref.sourceforge.net/), which can be used to create HTML
+(https://jabref.sourceforge.net/), which can be used to create HTML
 code for a list of publications (bibliography list).  The generated
 HTML code does not contain a header nor a body.  Its purpose is to be
 included in other HTML files or in text-to-html source files
@@ -16,7 +16,7 @@ included in other HTML files or in text-to-html source files
 2. INSTALLATION
 
 Requirement: this software requires JabRef, which can be found at
-http://jabref.sourceforge.net
+https://jabref.sourceforge.net
 
 To install this export in JabRef, follow the steps below (you
 should also consult the help document of JabRef):
