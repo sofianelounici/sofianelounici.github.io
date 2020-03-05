@@ -42,5 +42,6 @@ comments: false
 Three-year intensive program in Advanced Physics, Chemistry and Mathematics, in preparation for the nationwide competitive examination to the French *Grandes Écoles*. Major in Physics, Mathematics and Engineering Sciences.
 
 
-You can also download my [résumé in PDF](https://www.dropbox.com/s/mfal5tp0q3gnr5t/Resume-PontTuset.pdf?dl=0), or my [full CV](https://www.dropbox.com/s/zwdw1jfsc0eech3/CV-PontTuset.pdf?dl=0).
+<br/>
+You can also download my [resume](https://www.dropbox.com/s/qe3d2vdecehs2cr/Sofiane_Lounici_Resume.pdf?dl=0) in pdf.
 
